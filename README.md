@@ -53,3 +53,9 @@ python fire_detec_oop.py
 - Se o modelo YOLO tiver rótulos diferentes de “fire/flame”, ajuste o filtro em `YOLODetector.maybe_detect` (condição no `label.lower()`)
 - O índice da câmera (`index=1`) pode variar; se necessário, altere para `0`
 - O `interval` do YOLO regula desempenho (maior = mais leve; menor = mais responsivo)
+
+### 👤 Integrantes
+ - Gustavo Oestreich
+ - Victor Weiss 
+ - Yussef Hallak
+ - Matheus Haselein
